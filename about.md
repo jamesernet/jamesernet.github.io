@@ -4,32 +4,30 @@ title: About
 permalink: /about/
 ---
 
-I’m a student; teach me. 
-
 I support community whenever possible and try hard to focus as must positive energy as I can muster to the people and groups around me. I'm always looking for new inspiration, mentors and mentees and believes in the principles of working hard, giving back and being kind.
 
 Interests: Open Source, People, Automation, Blockchain, Cyber Security
 
-### Projects
+## Projects
 
-#### [King Tide](https://kingtide.la)
+### [King Tide](https://kingtide.la)
 - Role: CTO
 
-#### [Fuckup Nights - Los Angeles](https://fuckupnights.la)
+### [Fuckup Nights - Los Angeles](https://fuckupnights.la)
 - Role: Community Evangelist
 
-#### [Blockchain Training Alliance](https://blockchaintrainingalliance.com)
+### [Blockchain Training Alliance](https://blockchaintrainingalliance.com)
 - Role: Co-founder and CSO
 
-### Values
+## Values
 
-#### Continual Growth
-#### Adventure
-#### Transparency
-#### Community
-#### Freedom
+### Continual Growth
+### Adventure
+### Transparency
+### Community
+### Freedom
 
-### Contact me
+## Contact me
 
 Always looking for positive vibes, authentic conversations, and strange ideas. 
 
