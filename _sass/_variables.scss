@@ -14,10 +14,16 @@ $gray: #666;
 $lightGray: #eee;
 $white: #fff;
 
+$backround: #484d5c;
+$headline: #ffce00;
+$body: #c0ccd4;
+
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+$oswald: 'Oswald', sans-serif;
+$cardo: 'Cardo', serif;
 
 // Mobile breakpoints
 @mixin mobile {

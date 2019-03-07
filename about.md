@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: More About Me...s
 permalink: /about/
 ---
 
@@ -21,11 +21,11 @@ Interests: Open Source, People, Automation, Blockchain, Cyber Security
 
 ## Values
 
-### Continual Growth
-### Adventure
-### Transparency
-### Community
-### Freedom
+- ### Continual Growth
+- ### Adventure
+- ### Transparency
+- ### Community
+- ### Freedom
 
 ## Contact me
 

@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+	background: $background;
+  font: 18px/1.4 $cardo;
+  color: $body;
 }
 
 .container {
@@ -31,9 +31,10 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+  font-family: $oswald
+  color: $headline;
   font-weight: bold;
+  text-transform: uppercase;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -122,11 +123,11 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  color: $body;
   background: $lightGray;
 }
 ::selection {
-  color: $black;
+  color: $body;
   background: $lightGray;
 }
 
